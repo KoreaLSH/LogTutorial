@@ -2,7 +2,7 @@
 
 'csvload' sample sources.  
 csvload is a command to import csv files into MACHBASE.  
-First unzip 'sample_data.csv.zip' and execute .sh fils.
+First unzip 'sample_data.csv.zip' and execute a .sh fils.
 
 - load_awards.sh 
    - -C : Automatically generate the table when importing. The column names are automatically generated as c0, c1, ....
