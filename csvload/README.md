@@ -1,7 +1,7 @@
 # csvload
 
 'csvload' sample sources.  
-csvload is a command to import a csv file into MACHBASE.  
+csvload is a command to import csv files into MACHBASE.  
 First unzip 'sample_data.csv.zip' and execute .sh fils.
 
 - load_awards.sh 
