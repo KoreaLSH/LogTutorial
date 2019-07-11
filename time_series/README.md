@@ -4,7 +4,7 @@ MACHBASE provides DURATION.
 
 The main reason for using DURATION is to improve the performance even if a large amount of data is searched by reducing the search target.
 
-**Syntax**
+**Syntax**  
 DURATION    time_expression [BEFORE time_expression | TO_DATE(time) ];  
 DURATION    time_expression [AFTER TO_DATE(time)];  
 time_expression  
